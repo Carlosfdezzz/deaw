@@ -1,3 +1,22 @@
+
+<table>
+    <th>
+        <td>NOMBRE</td>
+        <TD>GITHUB</TD>
+    </th>
+    <tr>
+        <td>Nombre del compañero 1</td>
+        <td>adriifdez</td>
+    </tr>
+    <tr>
+        <td>Nombre del compañero 2</td>
+        <td>Gonzaloflores345</td>
+    </tr>
+</table>
+
+
+
+
 Crear repositorio
 Crear un repositorio en vuestro GitHub llamado DEAW.
 Clonar vuestro repositorio en local.
